@@ -1,2 +1,2 @@
-# TODO-List-Application-
-Todo list application that enables us to add and remove tasks dynamically
+# TODO-List-Application
+Todo list application that enables user to add and remove tasks dynamically
